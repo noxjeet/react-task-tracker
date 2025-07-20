@@ -2,7 +2,7 @@
   "name": "react-task-tracker",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://<YOUR_GITHUB_USERNAME>.github.io/<YOUR_REPOSITORY_NAME>/",
+  "homepage": "https://<noxjeet>.github.io/<react-task-tracker>/",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
